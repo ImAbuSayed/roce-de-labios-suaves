@@ -1,4 +1,4 @@
-# Roce de labios suaves
+# Roce de labios suaves, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Roce de labios suaves |
+| **Title** | Roce de labios suaves, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roce-de-labios-suaves/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Roce de labios suaves](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-labios-suaves/) |
+| **Get License** | [Official Music Licensing for Roce de labios suaves, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-labios-suaves/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -108,7 +108,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
 | **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
